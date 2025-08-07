@@ -1,0 +1,6 @@
+streamlit
+bertopic
+pandas
+matplotlib
+transformers
+scikit-learn
